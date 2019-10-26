@@ -9,11 +9,12 @@ const addUser = ({ id, username, room}) => {
     //Clean the data
 
     username = username.trim().toLowerCase()
+    room = room.trim().toLowerCase()
 
     
     //Vaildate the data 
 
-    if (!username || ! room) {
+    if (!username || !room) {
         return {
             error: 'Username and Room are required'
         }
@@ -33,7 +34,6 @@ const addUser = ({ id, username, room}) => {
     //Store user
     const user = { id, username, room }
     users.push(user)
-
     return {user}
 }
 
