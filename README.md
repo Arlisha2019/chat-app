@@ -1,5 +1,5 @@
-# chat-app
-Chat-App
+# The Chat App 
+
 
 ![Video of Login for Chat App](https://media.giphy.com/media/Qw8O4HbhEgsUlv3HS3/giphy.gif)
 ![Video of Chat app](https://media.giphy.com/media/MFsmH7MPYsstGC1OS7/giphy.gif)
