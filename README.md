@@ -1,4 +1,4 @@
-# The Chat App 
+ #  :computer: :outbox_tray: :computer: The Chat App :computer: :outbox_tray: :computer: 
 
 
 ![Video of Login for Chat App](https://media.giphy.com/media/Qw8O4HbhEgsUlv3HS3/giphy.gif)
