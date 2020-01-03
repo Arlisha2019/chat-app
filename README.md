@@ -1,9 +1,9 @@
 #  :computer: :outbox_tray: :computer: The Chat App :computer: :outbox_tray: :computer: 
 
-## Click here to view the website :point_right: [Chat-App-Link](https://git.heroku.com/hayles-chat-app.git)
+## Click here to view the website :point_right: [Chat-App-Link](https://hayles-chat-app.herokuapp.com/)
  
 ### Description 
-This app is was created to communicate via chat room. 
+This app was created to communicate via chat room. 
 
 ### Created with
 - Javascript
